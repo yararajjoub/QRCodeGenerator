@@ -22,7 +22,7 @@ public class QRCodeGenerator {
         try {
             String data = url;
 
-            String pathInProject = "src\\main\\java\\QRCodeGenerator\\";
+            String pathInProject = "src\\main\\java\\";
             String path = pathInProject + imageName + ".png";
 
 
